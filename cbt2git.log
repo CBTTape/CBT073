@@ -1,0 +1,10 @@
+2023-08-06 00:43:15.747956 - Initialized conversion of CBT073
+2023-08-06 00:43:15.767793 - Received CBT.V505.FILE073.PDS from FILE073.XMI 
+2023-08-06 00:43:15.768881 - Found PXP0000.bin containing application/octet-stream, moved to PDS/PXP0000
+2023-08-06 00:43:15.769956 - Found PXP0004.bin containing application/octet-stream, moved to PDS/PXP0004
+2023-08-06 00:43:15.770887 - Found PXP0005.bin containing application/octet-stream, moved to PDS/PXP0005
+2023-08-06 00:43:15.771856 - Found PXP0007.bin containing application/octet-stream, moved to PDS/PXP0007
+2023-08-06 00:43:15.772702 - Found PXP0009.bin containing application/octet-stream, moved to PDS/PXP0009
+2023-08-06 00:43:15.773633 - Found PXP0010.bin containing application/octet-stream, moved to PDS/PXP0010
+2023-08-06 00:43:15.774486 - Found PXP0100.bin containing application/octet-stream, moved to PDS/PXP0100
+2023-08-06 00:43:15.775371 - No @FILExxx or @FILxxxx detected, creating README.md without extra info
